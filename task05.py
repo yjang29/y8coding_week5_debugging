@@ -9,3 +9,4 @@ print("So, aside from", var, "and", var, "Is there anywhere else you've lived?")
 ### DISCUSS HERE:
 ###
 ### Was this a... syntax, logical or runtime error?
+### logical

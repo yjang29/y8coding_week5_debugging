@@ -6,3 +6,5 @@ if = input("If you were a medieval monarch, would you show mercy?")
 ### DISCUSS HERE:
 ###
 ### Was this a... syntax, logical or runtime error?
+
+### syntax

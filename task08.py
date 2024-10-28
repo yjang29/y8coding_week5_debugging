@@ -7,3 +7,5 @@ input("You live in " + city)
 ### DISCUSS HERE:
 ###
 ### Was this a... syntax, logical or runtime error?
+
+### syntax

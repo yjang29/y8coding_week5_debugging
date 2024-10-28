@@ -12,3 +12,5 @@ if num1 > num2 and num2 > num1:
 ### DISCUSS HERE:
 ###
 ### Was this a... syntax, logical or runtime error?
+
+### logical
